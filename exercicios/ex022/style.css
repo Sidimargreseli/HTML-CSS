@@ -15,14 +15,6 @@ div.quadrado{
   box-shadow: 3px 3px 3px rgba(8, 0, 0, 0.199);
 }
 
-div.circulo{
-    border: 2px solid black; 
-    height:300px;
-    width: 300px;
-    background-color: aliceblue;
-    box-shadow: 3px 3px 3px rgb(245, 2, 2);
-}
-
 div#q1{
     background-color: rgb(207, 101, 101);
 
